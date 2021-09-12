@@ -1,9 +1,31 @@
 #EXTM3U url-tvg="http://rstream.me/epg.xml.gz"
 
+#EXTINF:-1 tvg-id="ETV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_telugu.png" group-title="Entertainment",ETV HD
+http://watchindia.net:8880/live/33253/72963/936.ts
 
+#EXTINF:-1 tvg-id="ETV Cinema" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_cinema.png" group-title="Movies",ETV Cinema
+http://www.luckonline.eu:80/udZojN14CI/ryeq6tLCWN/1500
 
-#EXTINF:-1 tvg-id="TVAsiaTelugu.com" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/TVASA-logo.png" group-title="Movies",TVAsia HD
-https://streaming66.worldbbtv.com/hls/tvasiatelugu.m3u8
+#EXTINF:-1 tvg-id="ETV Life" tvg-logo="http://ky-iptv.com:25461/images/60db432d84f0e55b213c93078c56a74b.png" group-title="Lifestyle",ETV Life
+http://watchindia.net:8880/live/33253/72963/938.ts
+
+#EXTINF:-1 tvg-id="ETV PLUS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_plus.png" group-title="Lifestyle",ETV PLUS
+http://watchindia.net:8880/live/33253/72963/937.ts
+
+#EXTINF:-1 tvg-id="ETV ABHIRUCHI" tvg-logo="https://www.lyngsat.com/logo/tv/ee/etv_in_abhiruchi.png" group-title="Lifestyle",ETV ABHIRUCHI
+http://www.luckonline.eu:80/udZojN14CI/ryeq6tLCWN/372
+
+#EXTINF:-1 tvg-id="STAR MAA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-in.png" group-title="Entertainment",STAR MAA HD
+http://watchindia.net:8880/live/33253/72963/933.m3u8
+
+#EXTINF:-1 tvg-id="STAR MAA GOLD HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-gold-in.png" group-title="Movies",STAR MAA GOLD HD
+http://watchindia.net:8880/live/33253/72963/935.ts
+
+#EXTINF:-1 tvg-id="Star Maa Movies HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-movies-in.png" group-title="Movies",Star Maa Movies HD
+http://watchindia.net:8880/live/33253/72963/934.ts
+
+#EXTINF:-1 tvg-id="Star Maa Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Music.png" group-title="Music",Star Maa Music
+http://www.luckonline.eu:80/udZojN14CI/ryeq6tLCWN/1504
 
 #EXTINF:-1 tvg-id="Gemini TV HD" tvg-logo="https://sund-images.sunnxt.com/14019/1000x1000_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="Entertainment",Gemini TV HD
 http://watchindia.net:8880/live/33253/72963/928.ts
@@ -14,59 +36,29 @@ http://mag.rapidiptv.com:80/Fitim19/T02XJd509/10182
 #EXTINF:-1 tvg-id="Gemini Comedy" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_comedy.png" group-title="Entertainment",Gemini Comedy
 http://watchindia.net:8880/live/33253/72963/971.ts
 
+#EXTINF:-1 tvg-id="GEMINI MUSIC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_music.png" group-title="Music",Gemini Music HD
+http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/1506
+
 #EXTINF:-1 tvg-id="Gemini Life" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_gemini_life.png" group-title="Entertainment",Gemini Life
 http://watchindia.net:8880/live/33253/72963/931.ts
-
-
 
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Zee-Telugu-HD.png" group-title="Movies",Zee Telugu HD
 http://watchindia.net:8880/live/33253/72963/940.ts
 
-
 #EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2018/12/Zee-Cinemalu-HD-logo.jpg" group-title="Movies",Zee Cinemalu HD
 http://watchindia.net:8880/live/33253/72963/941.ts
 
-#EXTINF:-1 tvg-id="ETV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_telugu.png" group-title="Entertainment",ETV HD
-http://watchindia.net:8880/live/33253/72963/936.ts
-
-#EXTINF:-1 tvg-id="ETV Cinema" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_cinema.png" group-title="Movies",ETV Cinema
-http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/1500
-
-#EXTINF:-1 tvg-id="ETV Life" tvg-logo="http://ky-iptv.com:25461/images/60db432d84f0e55b213c93078c56a74b.png" group-title="Lifestyle",ETV Life
-http://watchindia.net:8880/live/33253/72963/938.ts
-
-#EXTINF:-1 tvg-id="ETV PLUS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_plus.png" group-title="Lifestyle",ETV PLUS
-http://watchindia.net:8880/live/33253/72963/937.ts
-
-#EXTINF:-1 tvg-id="ETV ABHIRUCHI" tvg-logo="https://www.lyngsat.com/logo/tv/ee/etv_in_abhiruchi.png" group-title="Lifestyle",ETV ABHIRUCHI
-https://luckonline.eu/KjPypddrq4/8p1pLrAVDh/372
-
-#EXTINF:-1 tvg-id="STAR MAA GOLD HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-gold-in.png" group-title="Movies",STAR MAA GOLD HD
-http://watchindia.net:8880/live/33253/72963/935.ts
-
-#EXTINF:-1 tvg-id="STAR MAA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-in.png" group-title="Entertainment",STAR MAA HD
-http://watchindia.net:8880/live/33253/72963/933.m3u8
-
-#EXTINF:-1 tvg-id="STAR MAA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-in.png" group-title="Entertainment",STAR MAA HD
-http://watchindia.net:8880/live/33253/72963/2168.m3u8
-
-#EXTINF:-1 tvg-id="Star Maa Movies HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-movies-in.png" group-title="Movies",Star Maa Movies HD
-http://watchindia.net:8880/live/33253/72963/934.ts
+#EXTINF:-1 tvg-id="TVAsiaTelugu.com" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/TVASA-logo.png" group-title="Movies",TVAsia HD
+https://streaming66.worldbbtv.com/hls/tvasiatelugu.m3u8
 
 #EXTINF:-1 tvg-id="RAJ MUSIC TELUGU" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_musix_telugu.png" group-title="Music",Raj Music Telugu
 http://watchindia.net:8880/live/33253/72963/957.ts
-
-#EXTINF:-1 tvg-id="GEMINI MUSIC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_gemini_music.png" group-title="Music",Gemini Music HD
-http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/1506
-
-#EXTINF:-1 tvg-id="Star Maa Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Music.png" group-title="Music",Star Maa Music
-http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/1504
 
 #EXTINF:-1 tvg-id="Vissa TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_vissa.png" group-title="Entertainment",Vissa TV
 http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/1498
 
 #EXTINF:-1 tvg-id="VANITHA TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/vanitha_tv.png" group-title="Entertainment",VANITHA TV
-http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/1496
+http://www.luckonline.eu:80/udZojN14CI/ryeq6tLCWN/1496
 
 #EXTINF:-1 tvg-id="SONY BBC EARTH HD TELUGU" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Telugu.png" group-title="Infotainment",SONY BBC EARTH HD
 http://watchindia.net:8880/live/33253/72963/789.m3u8
@@ -75,7 +67,7 @@ http://watchindia.net:8880/live/33253/72963/789.m3u8
 http://rv.imax.re:80/307210510160/307210510160/83993
 
 #EXTINF:-1 tvg-id="Discovery Channel HD" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Telugu.png" group-title="Infotainment",DISCOVERY HD
-http://watchindia.net:8880/live/33253/72963/2036.ts
+http://www.luckonline.eu:80/udZojN14CI/ryeq6tLCWN/1639
 
 #EXTINF:-1 tvg-id="History TV18 HD" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Telugu.png" group-title="Infotainment",History TV18 HD Telugu
 http://watchindia.net:8880/live/33253/72963/791.ts
@@ -96,16 +88,15 @@ https://mhdtvapp.xyz/sunnxt/snxt.php?e=.m3u8&id=26571
 https://jio.instream.ml/jio.php?c=Sonic_Telugu&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-id="Cartoon Network HD+" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_Telugu.png" group-title="Family/Kids",Cartoon Network HD+
-http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/1635
+http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/1635 
 
 #EXTINF:-1 tvg-id="Nick Telugu" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Telugu.png" group-title="Family/Kids",Nick Telugu
-http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/378
+http://www.luckonline.eu:80/udZojN14CI/ryeq6tLCWN/378
 
 #EXTINF:-1 tvg-id="Sony Yay Telugu" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Telugu.png" group-title="Family/Kids",Sony Yay Telugu
 https://jio.instream.ml/jio.php?c=Sony_Yay_Telugu&q=800&e=.m3u8
 
-#EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/logo-4k-11551060322xmawyydci2.png", 4K Nature
-http://stirr.ott-channels.stingray.com/naturescape/master_1920x1080_4500kbps.m3u8
+
 
 #EXTINF:-1 tvg-id="T News" tvg-id="T News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/T_News_logo.png/150px-T_News_logo.png" group-title="News",T News
 http://watchindia.net:8880/live/33253/72963/949.m3u8
@@ -472,13 +463,13 @@ https://livevoot-i.akamaihd.net/dash/live/828588/rishtey/master.mpd
 https://livevoot-i.akamaihd.net/dash/live/828520/colorshd/master.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1
-http://luckonline.eu:8080/17424/cnyzqDETiP/1369
+http://www.luckonline.eu:80/udZojN14CI/ryeq6tLCWN/1369
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 2
-http://103.205.133.48/hls/chss2.m3u8
+http://www.luckonline.eu:80/udZojN14CI/ryeq6tLCWN/1370
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 2
-http://luckonline.eu:8080/17424/cnyzqDETiP/1370
+http://www.luckonline.eu:80/udZojN14CI/ryeq6tLCWN/1066
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 3
 http://stariptv.xyz:8880/661562/505844/179353
