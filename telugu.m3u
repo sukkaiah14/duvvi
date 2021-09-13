@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://rstream.me/epg.xml.gz"
 
 #EXTINF:-1 tvg-id="SINDOORAM" tvg-logo="https://i.imgur.com/hHJWHwx.png?1" group-title="Entertainment",SINDOORAM VIDEO SONG
-https://raw.githubusercontent.com/subirkumarpaul/Subir-Max-2/master/Discover%20TV
+
 
 
 #EXTINF:-1 tvg-id="ETV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_telugu.png" group-title="Entertainment",ETV HD
