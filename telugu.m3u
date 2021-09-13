@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://rstream.me/epg.xml.gz"
 
-#EXTINF:-1 tvg-id="SINDOORAM" tvg-logo="" group-title="TRAIL",SINDOORAM VIDEO SONG
+#EXTINF:-1 tvg-id="SINDOORAM" tvg-logo="https://imgur.com/a/tdXgmnb" group-title="Entertainment",SINDOORAM VIDEO SONG
 https://github.com/143maha/duvvi/blob/main/Sindhooram.mp4 
 
 
