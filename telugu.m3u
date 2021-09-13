@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://rstream.me/epg.xml.gz"
 
 #EXTINF:-1 tvg-id="SINDOORAM" tvg-logo="" group-title="TRAIL",SINDOORAM VIDEO SONG
-https://github.com/143maha/duvvi/blob/main/Sindhooram%20(7)%20(1).mp4
+https://github.com/143maha/duvvi/blob/main/Sindhooram.mp4
 
 #EXTINF:-1 tvg-id="ETV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_telugu.png" group-title="Entertainment",ETV HD
 http://watchindia.net:8880/live/33253/72963/936.ts
