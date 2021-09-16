@@ -59,10 +59,10 @@ https://streaming66.worldbbtv.com/hls/tvasiatelugu.m3u8
 http://watchindia.net:8880/live/33253/72963/957.ts
 
 #EXTINF:-1 tvg-id="Vissa TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/raj_vissa.png" group-title="Entertainment",Vissa TV
-http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/1498
+http://watchindia.net:8880/live/33253/72963/942.m3u8
 
 #EXTINF:-1 tvg-id="VANITHA TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/vanitha_tv.png" group-title="Entertainment",VANITHA TV
-http://watchindia.net:8880/live/33253/72963/942.m3u8
+
 
 #EXTINF:-1 tvg-id="SONY BBC EARTH HD TELUGU" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Telugu.png" group-title="Infotainment",SONY BBC EARTH HD
 http://watchindia.net:8880/live/33253/72963/789.m3u8
