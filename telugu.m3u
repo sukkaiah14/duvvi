@@ -20,7 +20,7 @@ http://watchindia.net:8880/live/33253/72963/937.ts
 http://www.luckonline.eu:80/udZojN14CI/ryeq6tLCWN/372
 
 #EXTINF:-1 tvg-id="STAR MAA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-in.png" group-title="Entertainment",STAR MAA HD
-http://watchindia.net:8880/live/33253/72963/933.m3u8
+http://watchindia.net:8880/live/33253/72963/2168.m3u8
 
 #EXTINF:-1 tvg-id="STAR MAA GOLD HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-gold-in.png" group-title="Movies",STAR MAA GOLD HD
 http://watchindia.net:8880/live/33253/72963/935.ts
@@ -482,13 +482,13 @@ http://stariptv.xyz:8880/661562/505844/179353
 https://cutt.ly/inEizyW
 
 #EXTINF:-1 tvg-name="Sony Ten 1 Hd" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN1HD_Masthead_Logo.png" group-title="Sports",Sony Ten 1 Hd
-https://pubads.g.doubleclick.net/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
+https://cdn.nowhdtime.com.bd/SonyTen1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Sony Ten 2 Hd" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN2HD_Masthead_Logo.png" group-title="Sports",Sony Ten 2 Hd
-https://pubads.g.doubleclick.net/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
+https://cdn.nowhdtime.com.bd/SonyTen2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Sony Ten 3 Hd" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN3HD_Masthead_Logo.png" group-title="Sports",Sony Ten 3 Hd
-https://pubads.g.doubleclick.net/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
+https://cdn.nowhdtime.com.bd/SonyTen3/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Sony Ten 4 Telugu HD" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_HD_Telugu.png" group-title="Sports",Star Ten 4 Telugu HD
 https://pubads.g.doubleclick.net/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
