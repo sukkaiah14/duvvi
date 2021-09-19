@@ -24,13 +24,13 @@ http://watchindia.net:8880/live/33253/72963/937.ts
 http://www.luckonline.eu:80/udZojN14CI/ryeq6tLCWN/372
 
 #EXTINF:-1 tvg-id="STAR MAA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-in.png" group-title="Entertainment",STAR MAA HD
-http://212.224.98.196:2200/R-EX/TELUGU_STAR_MAA_HD-in/index.m3u8?token=
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/40866
 
-#EXTINF:-1 tvg-id="STAR MAA GOLD HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-gold-in.png" group-title="Movies",STAR MAA GOLD HD
-http://212.224.98.196:2200/R-EX/TELUGU_STAR_MAA_MOVIES_HD-in/index.m3u8?token=
+#EXTINF:-1 tvg-id="STAR MAA GOLD HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-gold-in.png" group-title="Movies",STAR MAA GOLD
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/40865
 
 #EXTINF:-1 tvg-id="Star Maa Movies HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-movies-in.png" group-title="Movies",Star Maa Movies HD
-http://212.224.98.196:2200/R-EX/TELUGU_STAR_MAA_MOVIES_HD-in/index.m3u8?token=
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/40860
 
 #EXTINF:-1 tvg-id="Star Maa Music" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Music.png" group-title="Music",Star Maa Music
 http://www.luckonline.eu:80/mAJXt2QtLk/KjkwQkZyg5/1504
@@ -51,7 +51,7 @@ http://www.luckonline.eu:80/udZojN14CI/ryeq6tLCWN/1506
 http://watchindia.net:8880/live/33253/72963/931.ts
 
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/Zee-Telugu-HD.png" group-title="Movies",Zee Telugu HD
-http://watchindia.net:8880/live/33253/72963/940.ts
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/86080
 
 #EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2018/12/Zee-Cinemalu-HD-logo.jpg" group-title="Movies",Zee Cinemalu HD
 http://watchindia.net:8880/live/33253/72963/941.ts
