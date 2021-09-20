@@ -9,19 +9,19 @@ https://user-images.githubusercontent.com/68803611/131243600-e04cd12d-ba00-4e15-
 
 
 #EXTINF:-1 tvg-id="ETV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_telugu.png" group-title="Entertainment",ETV 
-http://watchindia.net:8880/live/33253/72963/936.ts
+http://starshare.live:8080/live/21432143/21432143/9017.ts
 
 #EXTINF:-1 tvg-id="ETV Cinema" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_cinema.png" group-title="Movies",ETV Cinema
-http://www.luckonline.eu:80/udZojN14CI/ryeq6tLCWN/1500
+http://starshare.live:8080/live/21432143/21432143/9045.ts
 
 #EXTINF:-1 tvg-id="ETV Life" tvg-logo="http://ky-iptv.com:25461/images/60db432d84f0e55b213c93078c56a74b.png" group-title="Lifestyle",ETV Life
-http://watchindia.net:8880/live/33253/72963/938.ts
+http://starshare.live:8080/live/21432143/21432143/9052.ts
 
 #EXTINF:-1 tvg-id="ETV PLUS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/etv_in_plus.png" group-title="Lifestyle",ETV PLUS
 http://watchindia.net:8880/live/33253/72963/937.ts
 
 #EXTINF:-1 tvg-id="ETV ABHIRUCHI" tvg-logo="https://www.lyngsat.com/logo/tv/ee/etv_in_abhiruchi.png" group-title="Lifestyle",ETV ABHIRUCHI
-http://www.luckonline.eu:80/udZojN14CI/ryeq6tLCWN/372
+http://starshare.live:8080/live/21432143/21432143/9053.ts
 
 #EXTINF:-1 tvg-id="STAR MAA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-maa-in.png" group-title="Entertainment",STAR MAA HD
 http://watchindia.net:8880/live/83260/83260/2168.ts
